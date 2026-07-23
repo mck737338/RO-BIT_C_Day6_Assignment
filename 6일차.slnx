@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="test_place/test_place.vcxproj" Id="c9ca0d12-004d-47c5-9170-b84387824038" />
+  <Project Path="과제2/과제2.vcxproj" Id="08f740bd-a144-4fed-9a34-5daf9e789ef2" />
+  <Project Path="과제3/과제3.vcxproj" Id="ab9934d7-a40f-4307-9594-8b4ff6e0b5df" />
+  <Project Path="과제4/과제4.vcxproj" Id="382dd8ab-168f-4bd9-ac4e-509edf7e2c25" />
+  <Project Path="과제5/과제5.vcxproj" Id="af772a86-d2b2-4d9b-8cb4-288e12043007" />
+</Solution>

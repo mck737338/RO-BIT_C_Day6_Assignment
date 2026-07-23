@@ -1,0 +1,4 @@
+3
+3 kim\ aaa bbb ccc ddd 99
+4 lee aaa bbb ccc dde 88
+1 k aaa bbb cca aaa 96
