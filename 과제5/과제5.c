@@ -26,6 +26,14 @@ int main() {
 	student* list;
 	list = (student*)malloc(sizeof(student));
 	int people = 0;
+	printf("Function List:\n");
+	printf("sort\n");
+	printf("search\n");
+	printf("append\n");
+	printf("delete\n");
+	printf("save\n");
+	printf("load\n");
+	printf("exit\n");
 
 	int func;
 	while (1) {
